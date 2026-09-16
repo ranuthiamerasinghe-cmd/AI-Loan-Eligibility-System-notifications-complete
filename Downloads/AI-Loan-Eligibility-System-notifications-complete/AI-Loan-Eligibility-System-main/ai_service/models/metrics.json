@@ -1,0 +1,18 @@
+{
+  "accuracy": 0.565,
+  "precision": 0.7633,
+  "recall": 0.5583,
+  "f1_score": 0.6449,
+  "confusion_matrix": [
+    [
+      68,
+      49
+    ],
+    [
+      125,
+      158
+    ]
+  ],
+  "test_set_size": 400,
+  "train_set_size": 1600
+}
