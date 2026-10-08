@@ -1,0 +1,97 @@
+.otp-container{
+
+    min-height:100vh;
+
+    display:flex;
+
+    justify-content:center;
+
+    align-items:center;
+
+    background:linear-gradient(
+        135deg,
+        #ffe4f1,
+        #fce7f3
+    );
+
+}
+
+
+.otp-card{
+
+    background:white;
+
+    width:380px;
+
+    padding:40px;
+
+    border-radius:20px;
+
+    text-align:center;
+
+    box-shadow:0 10px 30px rgba(0,0,0,0.1);
+
+}
+
+
+.otp-card h1{
+
+    color:#ec4899;
+
+}
+
+
+.otp-card h2{
+
+    color:#0f766e;
+
+}
+
+
+.otp-card input{
+
+    width:100%;
+
+    padding:14px;
+
+    margin:20px 0;
+
+    border-radius:10px;
+
+    border:1px solid #ddd;
+
+    font-size:18px;
+
+    text-align:center;
+
+    letter-spacing:5px;
+
+}
+
+
+.otp-card button{
+
+    width:100%;
+
+    padding:14px;
+
+    border:none;
+
+    border-radius:10px;
+
+    background:#ec4899;
+
+    color:white;
+
+    font-size:16px;
+
+    cursor:pointer;
+
+}
+
+
+.otp-card button:hover{
+
+    background:#db2777;
+
+}
